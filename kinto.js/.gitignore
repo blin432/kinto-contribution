@@ -1,0 +1,10 @@
+/.venv
+/dist
+/lib
+/npm-debug.log
+/coverage
+/esdoc
+/node_modules
+/demo/kinto*
+.DS_Store
+.nyc_output
